@@ -13,6 +13,10 @@ I completed the project today, starting at 4 pm and finishing at 7 pm. The excit
 It's also important to know this drawing, which represents how Mediapipe does handmarking.
 <img src="handmarks.png" width=50%/>
 
+**Instructions**
+
+After you have finished installing the requisite.txt, make your video either with webcam directly using the term webcam in the main.py or just import the video still in the main.py and that's it. 😊
+
 I'll let you watch the demo. [link](final.mp4)
 
 <video width="640" height="360" controls>
